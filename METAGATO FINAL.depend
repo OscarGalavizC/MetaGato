@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1621876413 source:c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\diseno.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<iomanip>
+	"Diseno.h"
+	"Pantallas.h"
+	"Constantes y estructuras.h"
+
+1621834239 c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\diseno.h
+	"Constantes y estructuras.h"
+
+1621834239 c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\constantes y estructuras.h
+	"Utileria.h"
+	<string>
+
+1621834239 c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\utileria.h
+
+1621836272 c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\pantallas.h
+
+1621834239 source:c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\jugabilidad.cpp
+	"conio.h"
+	"Jugabilidad.h"
+	"Constantes y estructuras.h"
+
+1621834239 c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\jugabilidad.h
+	"Constantes y estructuras.h"
+
+1621837225 source:c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\main.cpp
+	"Utileria.h"
+	"Diseno.h"
+	"Pantallas.h"
+	"Constantes y estructuras.h"
+
+1621834239 source:c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\utileria.cpp
+	<iostream>
+	<windows.h>
+	"utileria.h"
+
+1621875688 source:c:\users\thinkpad\onedrive - universidad de sonora\conjunto universo\universidad\2° semestre\programación\codeblocks\metagato final\pantallas.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"Utileria.h"
+	"Constantes y estructuras.h"
+	"Diseno.h"
+	"Jugabilidad.h"
+	"Pantallas.h"
+
+1621876414 source:c:\users\usuario\desktop\metagato final\diseno.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<iomanip>
+	"Diseno.h"
+	"Pantallas.h"
+	"Constantes y estructuras.h"
+
+1621834240 c:\users\usuario\desktop\metagato final\diseno.h
+	"Constantes y estructuras.h"
+
+1621834240 c:\users\usuario\desktop\metagato final\constantes y estructuras.h
+	"Utileria.h"
+	<string>
+
+1621834240 c:\users\usuario\desktop\metagato final\utileria.h
+
+1621836274 c:\users\usuario\desktop\metagato final\pantallas.h
+
+1621834240 source:c:\users\usuario\desktop\metagato final\jugabilidad.cpp
+	"conio.h"
+	"Jugabilidad.h"
+	"Constantes y estructuras.h"
+
+1621834240 c:\users\usuario\desktop\metagato final\jugabilidad.h
+	"Constantes y estructuras.h"
+
+1621886896 source:c:\users\usuario\desktop\metagato final\main.cpp
+	"Utileria.h"
+	"Diseno.h"
+	"Pantallas.h"
+	"Constantes y estructuras.h"
+
+1621834240 source:c:\users\usuario\desktop\metagato final\utileria.cpp
+	<iostream>
+	<windows.h>
+	"utileria.h"
+
+1621877209 source:c:\users\usuario\desktop\metagato final\pantallas.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	"Utileria.h"
+	"Constantes y estructuras.h"
+	"Diseno.h"
+	"Jugabilidad.h"
+	"Pantallas.h"
+
